@@ -60,7 +60,7 @@ This project demonstrates how to build, train, and evaluate a deep learning mode
 
 ## 📚 Requirements
 
-- Python 3.7 or higher  
+- Python  
 - PyTorch  
 - torchvision  
 - matplotlib  
